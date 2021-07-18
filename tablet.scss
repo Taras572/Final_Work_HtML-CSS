@@ -1,0 +1,146 @@
+@media (max-width: 1300px){
+    .img_head{
+        width: 768px;
+        height: 700px; 
+        margin: 0 auto;
+    }
+    .img_head img{
+        transform: translate(-200px, 0);
+    }
+    .dreamshare{
+        left: 48px;   
+    }
+    .registration{
+        right: 50px;
+    }
+
+    .container{
+        width: 748px;
+    }
+    .block_Dreamshare h3{
+        font-size: 22px;
+    }
+
+    .item_step1{
+        width: 236px;
+        padding: 16px 20px;
+    }
+    .button_step1{
+        margin-top: 189px;  
+    }
+    .item_step1 h4{
+        line-height: 14px;
+        margin-top: 40px;
+    }
+    .item_step1 p{
+        margin-top: 31px;
+    }
+
+    .item_step2{
+        width: 236px;
+        padding: 16px 20px;
+    }
+    .button_step2{
+        margin-top: 239px;  
+    }
+    .item_step2 h4{
+        line-height: 14px;
+        margin-top: 14px;
+    }
+    .item_step2 p{
+        margin-top: 24px;
+    }
+
+    .item_step3{
+        width: 236px;
+        padding: 16px 20px;
+    }
+    .button_step3{
+        margin-top: 189px;  
+    }
+    .item_step3 h4{
+        line-height: 14px;
+        margin-top: 40px;
+    }
+    .item_step3 p{
+        margin-top: 31px;
+    }
+    /*block partne*/
+    .block_partner {
+        font-size: 22px;
+    }
+    .about_team{
+        width: 492px;
+        margin: 0 auto;
+        flex-wrap: wrap;
+    }
+    .block_team{
+        width: 236px;
+        
+    }
+    .button_other_partners{
+        margin-top: 40px;
+    }
+
+    /* discover holiday*/
+
+    .discover_holiday1 h3{
+        font-size: 22px;
+        
+    }
+    .img_holiday1{
+        width: 236px;
+        line-height:26px;
+        padding: 115px 40px;  
+    }
+    .img_holiday2{
+        width: 236px;
+        line-height:26px;
+        padding: 128px 32px;  
+    }
+    .img_holiday3{
+        width: 236px;
+        line-height:26px;
+        padding: 128px 24px;  
+    }
+
+
+    /*block holiday2*/
+    .img_holiday4{
+        width: 236px; 
+    }
+    .img_holiday5{
+        height: 310px;
+        width: 492px;
+    }
+    .img_holiday6{
+        height: 310px;
+        width: 492px;
+    }
+    .img_holiday7{
+        width: 236px; 
+    }
+    /*block_crate*/
+
+    .block_crate h3{
+        font-size: 22px;
+    }
+    .block_crate p{
+        margin-top: 43px;
+    }
+    /*footer*/
+    footer hr{
+        width: 768px;
+    }
+    .container_down{
+        width: 768px;
+        margin-bottom: 20px;
+    }
+    .block_down{
+        margin-right: 100px;
+    }
+    .container_down h6{
+        margin-right: 108px;
+    }
+
+}
